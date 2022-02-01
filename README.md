@@ -1,8 +1,11 @@
 # 👋 Hi, I’m @ShivamSabbarwal
 
-[![Email](https://img.shields.io/badge/shivam.sabb%40gmail.com-white?style=for-the-badge&logo=gmail)](mailto:shivam.sabb@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shiv.sabb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsabbarwal)
+<a href="https://instagram.com/shiv.sabb" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shivamsabbarwal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 -   👀 I’m interested in web, mobile and game development.
 -   🌱 I’m currently learning game development in Unity.
